@@ -38,6 +38,8 @@ Este proyecto implementa un modelo de inteligencia artificial que utiliza visió
 
 3. Descarga el dataset desde el enlace mencionado en los readme adicionales
 
+  url: https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/14
+
 ## Uso  
 
 1. Asegúrate de tener una cámara conectada y configurada.  
@@ -47,7 +49,7 @@ Este proyecto implementa un modelo de inteligencia artificial que utiliza visió
    python ./scripts/rpsAI.py  
    ```  
 
-3. Sigue las instrucciones en pantalla para jugar contra la IA.  
+3. Sigue las instrucciones en pantalla para jugar.  
 
 ## Estructura del proyecto  
 
