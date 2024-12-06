@@ -1,0 +1,11 @@
+.venv
+
+/datasets/test
+/datasets/train
+/datasets/valid
+
+/runs
+
+/datasets
+
+/datasets/rock-paper-scissors.v14i.yolov11.zip
